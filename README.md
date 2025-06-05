@@ -37,3 +37,7 @@ todo
 bitcoin problem sometimes (probably halving) very high price for transfer
 no such cases in litecoin, analysis to do, find exact date
 -------------------
+
+describe why litecoin was choosen
+maybe results from tests and voters, calculations
+
