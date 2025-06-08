@@ -41,3 +41,6 @@ no such cases in litecoin, analysis to do, find exact date
 describe why litecoin was choosen
 maybe results from tests and voters, calculations
 
+
+In addition to the application implementation, there is also to be a descriptive part. It is worth mentioning a small discrepancy in the reference of bitcoin/litecoin to gold/silver in real life (in total, it works out in favor of litecoin). Physical gold transportation costs are much lower than silver transportation costs, due to weight (for example, $10,000). When it comes to cryptocurrencies, here the transportation costs of silver (litecoin) are much lower than gold (bitcoin).
+
