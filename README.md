@@ -49,16 +49,27 @@ In addition to the application implementation, there is also to be a descriptive
 I have the tests results with small description from koleegs:
 
 Of the 10 selected compatible cryptocurrencies, 6 universities were to conduct speed and quality tests, take into account transaction fees and sort the cryptocurrencies by assigning them points from 1 to 10. After counting, the following results were obtained
+
 48 points -> 1  place (litecoin)
+
 41 points -> 2  place (hidden)
+
 38 points -> 3  place (hidden)
+
 34 points -> 4  place (hidden)
+
 31 points -> 5  place (hidden)
+
 30 points -> 6  place (hidden)
+
 29 points -> 7  place (hidden)
+
 29 points -> 8  place (hidden)
+
 26 points -> 9  place (hidden)
+
 24 points -> 10 place (hidden)
+
 this was the basis for implementing university payments. work is in progress, on June 23, 2025 there will be the first online presentation for computers, eventually the application will be mobile.
 
 
