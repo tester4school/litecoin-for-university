@@ -72,4 +72,6 @@ Of the 10 selected compatible cryptocurrencies, 6 universities were to conduct s
 
 this was the basis for implementing university payments. work is in progress, on June 23, 2025 there will be the first online presentation for computers, eventually the application will be mobile.
 
+-----
 
+Hi guys, if I should ask for somehing during presentation please let me know...
