@@ -75,3 +75,12 @@ this was the basis for implementing university payments. work is in progress, on
 -----
 
 Hi guys, if I should ask for somehing during presentation please let me know...
+
+-----
+
+Hi guys, I am after presentation and I am very supprised about progress. I dont know how Krakow team did their part, but it is working faster than my 3 wallet applications on my phone!!! I am waiting for described code from their side.
+Probably we have to move from here, I will let you know for sure soon.
+I am waiting for acceptation and I will add screens from desktop application. I think it will be something really BIG, I have a lot of requests from technical schools, they also sow the presentation.
+We are focusing still on our part (authorization and documenting) however its not all... We have new requirements connected with ZK (zero knowledge) and "mixer for privacy".
+If you have some sccomplished milestones - please let me know ASAP.
+Thanks and please all work hard, because we are doing something big, nobody expects this before...
