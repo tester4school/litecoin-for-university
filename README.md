@@ -1,5 +1,5 @@
 # lite4school
-litecoin questions school
+litecoin questions
 
 1.There is more number of litecoins than number of bitcoin (around 4 times more - 84 000 000 to 21 000 000) - is it true?
 
@@ -30,8 +30,6 @@ todo
 *Similarities and differences regarding point 2
 -amount of gold and silver in the world compared to bitcoin and litecoin
 -weight when traveling with gold compared to the weight of the transaction, take into account time and cost
-
-*Existing API for deploy solution
 
 --------------------
 bitcoin problem sometimes (probably halving) very high price for transfer
