@@ -23,20 +23,16 @@ litecoin questions
 
 
 
---------------------
-bitcoin problem sometimes (probably halving) very high price for transfer
-no such cases in litecoin, analysis to do, find exact date
--------------------
+halving, transfer costs
 
+bitcoin/litecoin to gold/silver in real life (in total, it works out in favor of litecoin). Physical gold transportation costs are much lower than silver transportation costs, due to weight (for example, $10,000). When it comes to cryptocurrencies, here the transportation costs of silver (litecoin) are much lower than gold (bitcoin).
 describe why litecoin was choosen
 maybe results from tests and voters, calculations
 
 
-In addition to the application implementation, there is also to be a descriptive part. It is worth mentioning a small discrepancy in the reference of bitcoin/litecoin to gold/silver in real life (in total, it works out in favor of litecoin). Physical gold transportation costs are much lower than silver transportation costs, due to weight (for example, $10,000). When it comes to cryptocurrencies, here the transportation costs of silver (litecoin) are much lower than gold (bitcoin).
-
-
------
-I have the tests results with small description from koleegs:
+-----------------------------------
+Tests results:
+-----------------------------------
 
 Of the 10 selected compatible cryptocurrencies, 6 universities were to conduct speed and quality tests, take into account transaction fees and sort the cryptocurrencies by assigning them points from 1 to 10. After counting, the following results were obtained
 
@@ -61,10 +57,6 @@ Of the 10 selected compatible cryptocurrencies, 6 universities were to conduct s
 24 points -> 10 place (hidden)
 
 this was the basis for implementing university payments. work is in progress, on June 23, 2025 there will be the first online presentation for computers, eventually the application will be mobile.
-
------
-
-Hi guys, if I should ask for somehing during presentation please let me know...
 
 -----
 
