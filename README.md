@@ -23,9 +23,9 @@ litecoin questions
 
 
 
-bitcoin/litecoin to gold/silver inconsistency (litecoin adventage):
+11.Bitcoin/Litecoin to gold/silver comparison inconsistency (litecoin adventage):
 Physical gold transportation costs are much lower than silver transportation costs, due to weight in real life.
-In cryptocurrencies transportation costs of silver (litecoin) are much lower than gold (bitcoin).
+In cryptocurrencies transportation costs of silver (litecoin) are much lower than gold (bitcoin) - is it true?
 
 -----------------------------------
 Tests results:
