@@ -21,8 +21,6 @@ litecoin questions
 
 10.Litecoin is very long in market so there is a lot of already supported places - is it true?
 
-
-
 11.Bitcoin/Litecoin to gold/silver comparison inconsistency (litecoin adventage):
 Physical gold transportation costs are much lower than silver transportation costs, due to weight in real life.
 In cryptocurrencies transportation costs of silver (litecoin) are much lower than gold (bitcoin) - is it true?
