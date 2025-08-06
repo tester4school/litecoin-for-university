@@ -25,7 +25,7 @@ litecoin questions
 Physical gold transportation costs are much lower than silver transportation costs, due to weight in real life.
 In cryptocurrencies transportation costs of silver (litecoin) are much lower than gold (bitcoin) - is it true?
 
-12.There have been cases in Bitcoin where a transfer of $120 resulted in a fee of $80 ($200 in total), while in Litecoin it never exceeded $1 - is this true?
+12.There have been cases in Bitcoin where a transfer of $120 resulted in a fee of $80 ($200 in total), while in Litecoin it never ever exceeded $1 - is it true?
 
 -----------------------------------
 Tests results:
