@@ -31,7 +31,7 @@ In cryptocurrencies transportation costs of silver (litecoin) are much lower tha
 Tests results:
 -----------------------------------
 
-Of the 10 selected compatible cryptocurrencies, 6 universities were to conduct speed and quality tests, take into account transaction fees and sort the cryptocurrencies by assigning them points from 1 to 10. After counting, the following results were obtained
+Of the 10 selected compatible cryptocurrencies, 6 universities were to conduct speed and quality tests, take into account transaction fees and sort the cryptocurrencies by assigning them points from 1 to 10. After counting, the following results were obtained:
 
 48 points -> 1  place (litecoin)
 
