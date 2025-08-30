@@ -63,3 +63,7 @@ I am waiting for acceptation and I will add screens from desktop application. I 
 We are focusing still on our part (authorization and documenting) however its not all... We have new requirements connected with ZK (zero knowledge) and "mixer for privacy".
 If you have some sccomplished milestones - please let me know ASAP.
 Thanks and please all work hard, because we are doing something big, nobody expects this before...
+
+-----
+
+Second presentation - 15.09.2025. I will be participating and let you know what is going on now... BRs
