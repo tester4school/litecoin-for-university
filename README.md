@@ -66,5 +66,6 @@ Thanks and please all work hard, because we are doing something big, nobody expe
 
 -----
 
-Second presentation - 15.09.2025. I will be participating and let you know what is going on now... BRs
-And ofcourse if you have questions, email me plesase.
+Second presentation - 15.09.2025. I will be participating and let you know what is going on now.
+
+If you have questions which I should ask, email me plesase.
