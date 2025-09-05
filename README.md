@@ -62,6 +62,7 @@ Probably we have to move from here, I will let you know for sure soon.
 I am waiting for acceptation and I will add screens from desktop application. I think it will be something really BIG, I have a lot of requests from technical schools, they also sow the presentation.
 We are focusing still on our part (authorization and documenting) however its not all... We have new requirements connected with ZK (zero knowledge) and "mixer for privacy".
 If you have some sccomplished milestones - please let me know ASAP.
+
 Thanks and please all work hard, because we are doing something big, nobody expects this before...
 
 -----
