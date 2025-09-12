@@ -72,3 +72,4 @@ If you have questions which I should ask, email me plesase.
 Please send to 14.09.2025 20:00 max if possible, I have to combine them, thanks for questions so far.
 
 Good point from Vado, do you have questions for test version for all universities?
+And please let me know which test version is more important for you according to your implementation part - mobile test version or desktop test version?
