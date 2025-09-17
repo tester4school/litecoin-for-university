@@ -74,3 +74,10 @@ If you have questions which I should ask, email me plesase.
 Good point from Vado, do you have questions for test version for all universities?
 And please let me know which test version is more important for you according to your implementation part - mobile test version or desktop test version?
 Please send questions/suggestions to 14.09.2025 20:00 max if possible, I have to combine them, thanks for questions/suggestions so far.
+
+-----
+
+Hi guys, sorry for delay.
+Again WOW, working with new features like "request for money" etc. Very good news is that in 2-3 weeks we have demo version to test for us all, so you will see by yourself.
+Info - please DO NOT share your code in internet, there will be our copyright.
+Cannot wait to show you, it is really pearl. BRs
