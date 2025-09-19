@@ -81,5 +81,7 @@ Hi guys, sorry for delay.
 Again WOW, the application is working with new features like "request for money" etc. Very good news is that in 2-3 weeks we have demo version to test for us all, so you will see by yourself.
 Info - please DO NOT share your code in internet, there will be our copyright.
 Cannot wait to show you, it is really pearl. BRs
+
 -----
+
 Please send me your stable part of code, we will get test version soon in few days.
