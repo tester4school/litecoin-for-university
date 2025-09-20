@@ -84,4 +84,4 @@ Cannot wait to show you, it is really pearl. BRs
 
 -----
 
-Please send me your stable part of code, we will get test version soon in few days.
+Please send me your stable part of code to 25.09.2025 16:00 max please, we will get test version soon in few days.
