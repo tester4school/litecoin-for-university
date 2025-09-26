@@ -86,3 +86,4 @@ Cannot wait to show you, it is really pearl. BRs
 
 Please send me your stable part of code to 25.09.2025 16:00 max please, we will get test version soon in few days.
 Reminder ;)
+Ok I've got all, compiling and I will send you all email with link. Please let me know if you need test version.
