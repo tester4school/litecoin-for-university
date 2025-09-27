@@ -90,5 +90,5 @@ Ok I've got all, compiling and I will send you all email with link. Please let m
 
 -----
 
-Good, it looks like all we have test version, test it please, curl, wget,... everything, but the main point is transfering litecoin, please report your all transactions with details! Time taken, amount, even where you exactly are ;) we have to be sure that we have the fastest API, and maybe we will find something to improve... So far, it is very fast... BRs
+Good, it looks like all we have test version, test it please, curl, wget,... everything, but the main point is transfering litecoin, please report your all transactions with details! Time taken, amount, even where you exactly are ;) we have to be sure that we have the fastest API, and maybe we will find something to improve... So far, it is very fast... Important bugs please report me directly. BRs
 
