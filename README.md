@@ -95,3 +95,7 @@ Good, it looks like all we have test version, test it please, curl, wget,... eve
 -----
 
 Ok, we have small issue found by team from Poznan, already fixed by team from Krakow. Please send me your new versions and I will create again new test version. As you could see, it is fastest tool on market now, so please remeber to not share your code. However it have to be without bugs. Please test it, old test version will be still working, I will send new test version on emails. Thanks for your hard work so far!
+
+-----
+
+New test version is ready, please test it very deep! BRs
