@@ -99,3 +99,7 @@ Ok, we have small issue found by team from Poznan, already fixed by team from Kr
 -----
 
 New test version is ready, please test it very deep! BRs
+
+-----
+
+No bugs so far? Please do not stop test it... If there will be no bugs, we will create prod version! So please test, test and test it please... And do not share your code! Best Regards
