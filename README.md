@@ -84,7 +84,7 @@ Cannot wait to show you, it is really pearl. BRs
 
 -----
 
-Please send me your stable part of code to 25.09.2025 16:00 max please, we will get test version soon in few days.
+Please send me your stable part of code to 25.09.2025 16:00 max please, we will get test 4version soon in few days.
 Reminder ;)
 Ok I've got all, compiling and I will send you all email with link. Please let me know if you need test version.
 
@@ -103,5 +103,5 @@ New test version is ready, please test it very deep! BRs
 -----
 
 No bugs so far? Please do not stop test it... If there will be no bugs, we will create prod version! So please test, test and test it please... And do not share your code! Best Regards
-
-Still no bugs, even that there are some bigger changes around value of crypto - we don't care about it. Its very good that our api is working in such moments and we had occasion to test. 2 weeks max of tests and we are deploying our stuff. BRs
+Around 2 weeks of tests and we are deploying our stuff. Documentation as I heard is in 65 percent, will be ready in 2 weeks.
+BRs
