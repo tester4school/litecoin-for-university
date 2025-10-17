@@ -107,3 +107,4 @@ Around 2 weeks of tests and we are deploying our stuff. Documentation as I heard
 BRs
 
 crossing fingers ;)
+Info from Warsaw team - documentation 80%, still no bugs...
