@@ -108,3 +108,5 @@ BRs
 
 crossing fingers ;)
 Info from Warsaw team - documentation 80%, still no bugs...
+
+We have some slowdowns during transfer but really small (1-2seconds). However we are analysing this just in case
