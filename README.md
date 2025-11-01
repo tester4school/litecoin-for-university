@@ -114,3 +114,4 @@ We have some slowdowns during transfer but really small (1-2seconds). However we
 The documentation is ready, newest test version still without bugs! Any new ideas? Please let me know guys.
 -----
 Hi guys, I have received strange email with strange file "secret_.txt" as attached. Anyone also received such email?
+Thank you for confirmations - it is probably nothing imortant for us.
