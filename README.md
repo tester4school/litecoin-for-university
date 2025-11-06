@@ -115,3 +115,6 @@ The documentation is ready, newest test version still without bugs! Any new idea
 -----
 Hi guys, I have received strange email with strange file "secret_.txt" as attached. Anyone also received such email?
 Thank you for confirmations - it is probably nothing imortant for us.
+
+-----
+Guys, we are starting with version 1.0 on 16.01.2025!!! This is already signed!!! Great job, meanwhile, our bosses are selling this in polish schools! WOW! Good that we have business man in our big team! We are invading Poland, who knows, maybe other countries in 2026? GREAT!!! Good day!!!
