@@ -120,3 +120,4 @@ Thank you for confirmations - it is probably nothing imortant for us.
 Guys, we are starting with version 1.0 on 16.01.2025!!! This is already signed!!! Great job, meanwhile, our bosses are selling this in polish schools! WOW! Good that we have business man in our big team! We are invading Poland, who knows, maybe other countries in 2026? GREAT!!! Good day!!!
 
 Ofcourse feel free to inform me about new ideas/problems... I will analyze, merge and pass your ideas, thank you!
+I will see bosses next week, so please inform me about any cases and ideas. As I heard, on all presentations, everybody open eyes when they see the wallet speed... Nice;)
