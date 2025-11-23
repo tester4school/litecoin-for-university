@@ -121,3 +121,6 @@ Guys, we are starting with version 1.0 on 16.01.2025!!! This is already signed!!
 
 Ofcourse feel free to inform me about new ideas/problems... I will analyze, merge and pass your ideas, thank you!
 I will see bosses next week, so please inform me about any cases and ideas. As I heard, on all presentations, everybody open eyes when they see the wallet speed... Nice;)
+-----
+IMPORTANT for all developers!
+Good news guys, there is question from some company if we can do application for DOGECOIN or DASH (both cryptocurrencies) as good and quick as for litecoin? We have to also estimate our work in manhours. This will be for real money. Please analyze your part and let me know till 27 November 2025. BRs
