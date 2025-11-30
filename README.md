@@ -124,3 +124,5 @@ I will see bosses next week, so please inform me about any cases and ideas. As I
 -----
 IMPORTANT for all developers!
 Good news guys, there is question from some company if we can do application for DOGECOIN or DASH (both cryptocurrencies) as good and quick as for litecoin? We have to also estimate our work in manhours. This will be for real money. Please analyze your part and let me know till 27 November 2025. BRs
+-----
+From preliminary estimates, both Dogecoin and Dash are about 60% compatible, but not as well as Litecoin. This means we chose Litecoins well to begin with ;). Everything will need to be changed: table names, Hibernate 75%, etc. We'll manage.
