@@ -129,4 +129,4 @@ From preliminary estimates, both Dogecoin and Dash are about 60% compatible, but
 ---------------------
 ---------------------
 ---------------------
-GREAT news! Dogecoin and Dash will be working also fast as litecoin, because they are forks of with this necessary part of code. I think customer knew it and that is wgy he want them. Cool!
+GREAT news! Dogecoin and Dash will be working also fast as litecoin, because they are forks of with this necessary part of code. I think customer knew it and that is why he want them. Cool!
