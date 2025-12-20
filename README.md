@@ -134,3 +134,5 @@ GREAT news! Dogecoin and Dash will be working also fast as litecoin, because the
 Krakow team confirmed, they (both - Dogecoin and Dash cryptocurrencies) will be also working as fast as litecoin. Next week I will get application gui on paper (pdf), so please prepare somehow to your part of work so we will be fast again! Thanks and have a nice day!
 ---------
 I've got over 47 pages description. I will send you in 1 hour.
+---------
+Hi guys, yesterday I receive confirmation - version 1.0 on 16.01.2025!
