@@ -136,4 +136,5 @@ Krakow team confirmed, they (both - Dogecoin and Dash cryptocurrencies) will be 
 I've got over 47 pages description. I will send you in 1 hour.
 ---------
 Hi guys, yesterday I receive confirmation - version 1.0 on 16.01.2025!
+---------
 CU on friday! =)
