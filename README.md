@@ -138,3 +138,5 @@ I've got over 47 pages description. I will send you in 1 hour.
 Hi guys, yesterday I receive confirmation - version 1.0 on 16.01.2025!
 ---------
 CU on friday! =)
+=========
+Hello, congratulations on version 1.0. Now we need to focus on DASH and DOGECOIN to match the implementation of LITECOIN. Please check your emails daily. Best regards!
