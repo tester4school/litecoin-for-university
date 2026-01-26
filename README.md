@@ -141,4 +141,4 @@ CU on friday! =)
 =========
 Hello, congratulations on version 1.0. Now we need to focus on DASH and DOGECOIN to match the implementation of LITECOIN. Please check your emails daily. Best regards!
 ---
-Hi guys, 26.02.2026 we have to show test version for DASH and DOGECOIN. Please keep it im mind please. Best Regards guys!
+Hi guys, 26.02.2026 we have to show test version for DASH and DOGECOIN. Keep it im mind please. Best Regards guys!
