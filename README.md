@@ -144,3 +144,5 @@ Hello, congratulations on version 1.0. Now we need to focus on DASH and DOGECOIN
 Hi guys, 26.02.2026 we have to show test version for DASH and DOGECOIN. Keep it in mind please. Best Regards guys!
 ---
 Hi again, as most of you know, we have new customer for Arbitrum and Litecoin. No holiday this year ;) We have a lot work so please stay tuned on your emails... BRs
+---
+I've pdf with new requirements (35 pages). I will send you in 1 hour. Please analyze it all until friday. Good day!
