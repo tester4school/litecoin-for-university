@@ -146,3 +146,5 @@ Hi guys, 26.02.2026 we have to show test version for DASH and DOGECOIN. Keep it 
 Hi again, as most of you know, we have new customer for Arbitrum and Litecoin. No holiday this year ;) We have a lot work so please stay tuned on your emails... BRs
 ---
 I've pdf with new requirements (35 pages). I will send you in 1 hour. Please analyze it all until friday. Good day!
+---
+Today we had a conference call, showing a Litecoin transfer. The client was speechless and asked after a moment, "How is it possible?" :) I told him we had a friend from Krakow who had changed it, and we are still impressed, but the client said he wanted to meet him in person at the next opportunity. :) Best regards.
