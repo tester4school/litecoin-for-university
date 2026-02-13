@@ -148,3 +148,5 @@ Hi again, as most of you know, we have new customer for Arbitrum and Litecoin. N
 I've pdf with new requirements (35 pages). I will send you in 1 hour. Please analyze it all until friday. Good day!
 ---
 Today we had a conference call, showing a Litecoin transfer. The client was speechless and asked after a moment, "How is it possible?" :) I told him we had a friend from Krakow who had changed it, and we are still impressed, but the client said he wanted to meet him in person at the next opportunity. :) Best regards.
+---
+Hi guys, if you have any important blockers, please let me know asap. Max 17.02.2025, we have to show results next week. Thank you for your hard work so far <3
