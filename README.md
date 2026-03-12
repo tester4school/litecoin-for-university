@@ -150,3 +150,6 @@ I've got pdf with new requirements (35 pages). I will send you in 1 hour. Please
 Today we had a conference call, showing a Litecoin transfer. The client was speechless and asked after a moment, "How is it possible?" :) I told him we had a friend from Krakow who had changed it, and we are still impressed, but the client said he wanted to meet him in person at the next opportunity. :) Best regards.
 ---
 I've got pdf with new requirements (49 pages). I will send you in 1 hour. Please analyze it all until friday. Good day!
+---
+I've got pdf with new requirements (83 pages). I will send you today evening. Best Regards!
+
