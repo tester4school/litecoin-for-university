@@ -154,3 +154,5 @@ I've got pdf with new requirements (49 pages). I will send you in 1 hour. Please
 I've got pdf with new requirements (83 pages). I will send you today evening. Best Regards!
 ---
 Hi, Tomorrow I will get requirements from new customer for Litecoin. I will send you asap. BR!
+---
+Hi all, if you have any new bugs in our all applications, please send me info asap, thank you in advance! BR
