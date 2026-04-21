@@ -156,3 +156,6 @@ I've got pdf with new requirements (83 pages). I will send you today evening. Be
 Hi, Tomorrow I will get requirements from new customer for Litecoin. I will send you asap. BR!
 ---
 Hi all, if you have any new bugs in our all applications, please send me info asap, thank you in advance! BR
+---
+Hi all, 28.04.2026 organizational meeting for all! This is mandatory! Best Regards! :)
+
