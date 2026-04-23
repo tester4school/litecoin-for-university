@@ -157,5 +157,5 @@ Hi, Tomorrow I will get requirements from new customer for Litecoin. I will send
 ---
 Hi all, if you have any new bugs in our all applications, please send me info asap, thank you in advance! BR
 ---
-Hi all, 28.04.2026 organizational meeting for all! This is mandatory! Best Regards! :)
+Hi all, 28.04.2026 10:00 (I will send you link 2 hours before) organizational meeting for all! This is mandatory! Best Regards! :)
 
