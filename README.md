@@ -160,3 +160,9 @@ Hi all, if you have any new bugs in our all applications, please send me info as
 Hi all, 28.04.2026 10:00 (I will send you link around 2 hours before) organizational meeting for all! This is mandatory! Please book at least 3 hours of your time for the meeting. Best Regards! :)
 ---
 New Litecoin Core working + analysis for all OBLIGATORY! :D <3 Best Regards!
+---
+Hi all, 
+Due to frequent questions, I'm answering here collectively:
+1. I don't know if the Litecoin halving has any impact on us and our application at all, but that will be the work of one of the students, who will present it to us in two months.
+2. We need to test Litecoin Core primarily on Linux and Windows. Some people need to test the others, but not everyone has to.
+Best Regards! <3
