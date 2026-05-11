@@ -164,5 +164,4 @@ New Litecoin Core working + analysis for all OBLIGATORY! :D <3 Best Regards!
 Hi all, 
 Due to frequent questions, I'm answering here collectively:
 1. I don't know if the Litecoin halving has any impact on us and our application at all, but that will be the work of one of the students, who will present it to us in one/two months.
-2. We need to test Litecoin Core primarily on Linux and Windows. Some people need to test the others, but not everyone has to.
-Best Regards! <3
+2. We need to test Litecoin Core primarily on Linux and Windows. Some people need to test the others, but not everyone has to. Best Regards! <3
