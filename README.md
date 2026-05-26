@@ -167,3 +167,5 @@ Due to frequent questions, I'm answering here collectively:
 2. We need to test Litecoin Core primarily on Linux and Windows. Some people need to test the others, but not everyone has to. Best Regards! <3
 ---
 Hi guys, please download Litecoin stuff only from main Litecoin page (*.org, main github). BRs
+---
+I have to confirm, that base (not new stuff) of Litecoin is masterpiece... BRs
