@@ -127,8 +127,6 @@ Good news guys, there is question from some company if we can do application for
 -----
 From preliminary estimates, both Dogecoin and Dash are about 60% compatible, but not as well as Litecoin. This means we chose Litecoins well to begin with ;). Everything will need to be changed: table names, Hibernate 75%, etc. We'll manage.
 ---------------------
----------------------
----------------------
 GREAT news! Dogecoin and Dash will be working also fast as litecoin, because they are forks of with this necessary part of code. I think customer knew it and that is why he want them. Cool!
 ---------
 Krakow team confirmed, they (both - Dogecoin and Dash cryptocurrencies) will be also working as fast as litecoin. Next week I will get application gui on paper (pdf), so please prepare somehow to your part of work so we will be fast again! Thanks and have a nice day!
