@@ -167,3 +167,5 @@ Due to frequent questions, I'm answering here collectively:
 Hi guys, please download Litecoin stuff only from main Litecoin page (*.org, main github). BRs
 ---
 I have to confirm, that base (not new stuff) of Litecoin is masterpiece... BRs
+---
+Question from outside - is it possible that Satoshi Nakamoto creates Litecoin as well? If you know something please let me know! BRs
