@@ -172,4 +172,4 @@ Question from outside - is it possible that Satoshi Nakamoto creates Litecoin as
 ---
 Its important topic for us so all please dig the Satoshi Nakamoto group and Litecoin changes. BRs
 ---
-Hi, please send me your all work before 18 july 2026. Thanks and CU soon! ;) BRs
+Hi, please send me your all work before 18 june 2026. Thanks and CU soon! ;) BRs
