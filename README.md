@@ -176,5 +176,6 @@ Hi, please send me your all work before 18 june 2026. Thanks and CU soon! ;) BRs
 ---
 I recently watched a match featuring the Ivory Coast, and I have to admit that the creator of Litecoin doesn't look like a typical local, but rather like a Chinese person. Of course, that doesn't mean anything, but one of the students has a lead, and I’ll take the liberty of quoting a part of what he said:
 "The available evidence paints a compelling picture of a relationship between Charlie Lee and Satoshi Nakamoto.".
+---
 
 
