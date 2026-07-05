@@ -176,7 +176,7 @@ Hi, please send me your all work before 18 june 2026. Thanks and CU soon! ;) BRs
 ---
 I recently watched a football match (the World Cup in Canada, Mexico, and the USA) featuring the Ivory Coast national team, and I have to admit that the creator of Litecoin doesn't look like a typical native of that country, but rather like a Chinese person. Of course, this doesn't mean anything, but one student stumbled upon a lead that he is now pursuing further; let me quote a fragment of what he said:
 "The available evidence paints a compelling picture of the relationship between Charlie Lee and Satoshi Nakamoto."
-I'm keeping my fingers crossed for him.
+I'm keeping my fingers crossed for him (our student ofcourse).
 ---
 
 
