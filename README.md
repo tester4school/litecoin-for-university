@@ -178,5 +178,6 @@ I recently watched a football match (the World Cup in Canada, Mexico, and the US
 "The available evidence paints a compelling picture of the relationship between Charlie Lee and Satoshi Nakamoto."
 I'm keeping my fingers crossed for him (our student ofcourse).
 ---
-
-
+Info:
+"The available evidence paints a compelling picture of the relationship between Charlie Lee and Satoshi Nakamoto."
+it looks like our student found at least 2 interactions between Satoshi Nakamoto accounts and Charlie Lee. He need help - if you are hacker and you wanna help him, please let me know ASAP. Thanks!
