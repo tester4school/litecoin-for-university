@@ -154,30 +154,31 @@ I've got pdf with new requirements (83 pages). I will send you today evening. Be
 Hi, Tomorrow I will get requirements from new customer for Litecoin. I will send you asap. BR!
 ---
 Hi all, if you have any new bugs in our all applications, please send me info asap, thank you in advance! BR
----
+-----
 Hi all, 28.04.2026 10:00 (I will send you link around 2 hours before) organizational meeting for all! This is mandatory! Please book at least 3 hours of your time for the meeting. Best Regards! :)
----
+-----
 New Litecoin Core working + analysis for all OBLIGATORY! :D <3 Best Regards!
----
+-----
 Hi all, 
 Due to frequent questions, I'm answering here collectively:
 1. I don't know if the Litecoin halving has any impact on us and our application at all, but that will be the work of one of the students, who will present it to us in one/two months.
 2. We need to test Litecoin Core primarily on Linux and Windows. Some people need to test the others, but not everyone has to. Best Regards! <3
----
+-----
 Hi guys, please download Litecoin stuff only from main Litecoin page (*.org, main github). BRs
----
+-----
 I have to confirm, that base (not new stuff) of Litecoin is masterpiece... BRs
----
+-----
 Question from outside - is it possible that Satoshi Nakamoto creates Litecoin as well? If you know something please let me know! BRs
----
+-----
 Its important topic for us so all please dig the Satoshi Nakamoto group and Litecoin changes. BRs
----
+-----
 Hi, please send me your all work before 18 june 2026. Thanks and CU soon! ;) BRs
----
+-----
 I recently watched a football match (the World Cup in Canada, Mexico, and the USA) featuring the Ivory Coast national team, and I have to admit that the creator of Litecoin doesn't look like a typical native of that country, but rather like a Chinese person. Of course, this doesn't mean anything, but one student stumbled upon a lead that he is now pursuing further; let me quote a fragment of what he said:
 "The available evidence paints a compelling picture of the relationship between Charlie Lee and Satoshi Nakamoto."
 I'm keeping my fingers crossed for him (our student ofcourse).
----
+-----
 Info:
 "The available evidence paints a compelling picture of the relationship between Charlie Lee and Satoshi Nakamoto."
 it looks like our student found at least 2 interactions between Satoshi Nakamoto accounts and Charlie Lee. He need help - if you are hacker and you wanna help him, please let me know ASAP. Thanks!
+-----
