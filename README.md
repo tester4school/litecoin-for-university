@@ -182,6 +182,6 @@ Info:
 "The available evidence paints a compelling picture of the relationship between Charlie Lee and Satoshi Nakamoto."
 it looks like our student found at least 2 interactions between Satoshi Nakamoto accounts and Charlie Lee. He need help - if you are hacker and you wanna help him, please let me know ASAP. Thanks!
 -------
-Satoshi Nakamoto - Charlie Lee? still actual topic, thanks for seeking, please bring me more infos ;)
+Satoshi Nakamoto connection to Charlie Lee? Our student is still following some evidences he found, but he need help. Please let me know if you want to support him. Thank you!
 -------
 
