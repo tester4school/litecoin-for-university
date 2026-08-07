@@ -185,5 +185,5 @@ it looks like our student found at least 2 interactions between Satoshi Nakamoto
 Satoshi Nakamoto connection to Charlie Lee? Our student is still following some evidences he found, but he need help. Please let me know if you want to support him. Thank you!
 End of his work on this topic is 31.08.2026 so please support.
 --------------
-Hi all, new version Litecoin Core v0.21.5.6 is obligatory for all to test! Best Regards!
+Hi all, new version Litecoin Core v0.21.5.6 is obligatory for all to test! (Linux and Windows) Best Regards!
 --------------
