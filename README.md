@@ -186,3 +186,6 @@ Satoshi Nakamoto connection to Charlie Lee? Our student is still following some 
 End of his work on this topic is 31.08.2026 so please support.
 --------------
 Update: Due to the summer break and at the request of the student, we have decided to extend work on this topic until November 20, 2026. In return, we will receive the detailed results of the work in the form of a document. Best Regards!
+--------------
+I now have the document from our board regarding Satoshi Nakamoto and Charlie Lee; I’ll email it to you shortly.
+Best Regards!
