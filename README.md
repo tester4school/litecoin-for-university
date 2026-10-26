@@ -189,4 +189,5 @@ Update: Due to the summer break and at the request of the student, we have decid
 --------------
 I now have the document from our board regarding Satoshi Nakamoto and Charlie Lee; I’ll email it to you shortly.
 Best Regards!
+
 Please note that this document, or any part of it, may not be shared or used without the author's permission. The author's email address can be found at the end of the document. Best regards.
