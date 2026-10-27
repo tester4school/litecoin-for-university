@@ -189,5 +189,7 @@ Update: Due to the summer break and at the request of the student, we have decid
 --------------
 I now have the document from our board regarding Satoshi Nakamoto and Charlie Lee; I’ll email it to you shortly.
 Best Regards!
-
+--------------
 Please note that this document, or any part of it, may not be shared or used without the author's permission. The author's email address can be found at the end of the document. Best regards.
+--------------
+Hi, very good news;) !!! I have a new, truly major client for high-volume, rapid payments using Litecoin technology. The client is currently preparing a project draft (including detailed specifications) that incorporates our technology. Please refresh your knowledle of our used technology and Litecoin. BRs
